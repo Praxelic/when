@@ -4,10 +4,28 @@
 
 ---
 
+## Installation
+
+```bash
+pip install -r requirements.exe
+```
+
+---
+
 ## Usage
+
+### Executable Version
 
 ```bash
 when "<url>"
+```
+
+---
+
+### Source Code
+
+```bash
+python when.py "<url>"
 ```
 
 ---
