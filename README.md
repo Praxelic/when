@@ -30,7 +30,7 @@ python when.py "<url>"
 
 ---
 
-## Output Example
+## Output
 
 ```text
 ┌────────────────────────────────────────┐
