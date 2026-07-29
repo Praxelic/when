@@ -14,7 +14,7 @@ pip install -r requirements.exe
 
 ## Usage
 
-### Executable Version
+### Release
 
 ```bash
 when "<url>"
